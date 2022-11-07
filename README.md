@@ -1,3 +1,3 @@
 Todo App (pet project)
 
-Technology stack: JavaScript, React, SCSS, REST api, Fetch.
+Technology stack: JavaScript, Typescript, React, SCSS, REST api, Fetch.
